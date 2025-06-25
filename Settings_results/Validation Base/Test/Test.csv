@@ -1,0 +1,9 @@
+Attack Patterns;Prevents;Mitigates
+Exploitation of Trusted Identifiers;;✓
+Exploiting Trust in Client;✓;✓
+Leveraging Race Conditions;✓;✓
+Fuzzing;✓;✓
+Exploitation of Trusted Identifiers;✓;✓
+Exploiting Trust in Client;✓;✓
+Leveraging Race Conditions;✓;✓
+Fuzzing;✓;✓

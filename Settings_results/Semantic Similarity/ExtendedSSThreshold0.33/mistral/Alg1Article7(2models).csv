@@ -1,0 +1,6 @@
+Attack Pattern,Measure,Max Value,Models
+179,8,0.41,"['Mpnet', 'Multilingual']"
+439,0,0.63,"['ATTACK', 'Mpnet']"
+452,9,0.42,"['MiniLM', 'Multilingual']"
+571,3,0.41,"['MiniLM', 'Multilingual']"
+624,3,0.44,"['MiniLM', 'Multilingual']"

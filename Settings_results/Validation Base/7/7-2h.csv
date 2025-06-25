@@ -1,0 +1,262 @@
+﻿Attack Patterns;Prevents;Mitigates;Unsure;Do not understand
+Exploitation of Trusted Identifiers;✗;✗;;
+Exploiting Trust in Client;✗;✗;;
+Leveraging Race Conditions;✗;✗;;
+Fuzzing;✗;✗;;
+Manipulating State;✗;✗;;
+Adversary in the Middle (AiTM);✗;✗;;
+Interface Manipulation;✗;✗;;
+Excavation;✗;✗;;
+Privilege Abuse;✗;✗;;
+Buffer Manipulation;✗;✗;;
+Flooding;✗;✗;;
+Excessive Allocation;✗;✗;;
+Resource Leak Exposure;✗;✗;;
+Parameter Injection;✗;✗;;
+Content Spoofing;✗;✗;;
+Identity Spoofing;✗;✗;;
+Resource Location Spoofing;✗;✗;;
+Action Spoofing;✗;✗;;
+Code Inclusion;✗;✗;;
+Functionality Misuse;✗;✗;;
+Resource Injection;✗;✗;;
+Code Injection;✗;✗;;
+Command Injection;✗;✗;;
+Manipulate Human Behavior;✗;✓;;
+Malicious Logic Insertion;✗;✗;;
+Local Execution of Code;✗;✗;;
+Functionality Bypass;✗;✗;;
+Use of Known Domain Credentials;✗;✗;;
+Object Injection;✗;✗;;
+Exploitation of Trusted Identifiers;✓;✓;✗;✗
+Exploiting Trust in Client;✓;✓;✗;✗
+Leveraging Race Conditions;✓;✓;✗;✗
+Fuzzing;✗;✗;✓;✗
+Manipulating State;✓;✓;✓;✗
+Adversary in the Middle (AiTM);✓;✓;✗;✗
+Interface Manipulation;✗;✗;✓;✗
+Excavation;✗;✗;✓;✗
+Privilege Abuse;✓;✓;✗;✗
+Buffer Manipulation;✓;✓;✗;✗
+Flooding;✗;✗;✓;✗
+Excessive Allocation;✓;✓;✗;✗
+Resource Leak Exposure;✓;✓;✓;✗
+Parameter Injection;✓;✓;✗;✗
+Content Spoofing;✓;✓;✓;✗
+Identity Spoofing;✓;✓;✓;✗
+Resource Location Spoofing;✓;✓;✓;✗
+Action Spoofing;✓;✓;✓;✗
+Code Inclusion;✓;✓;✗;✗
+Functionality Misuse;✓;✓;✓;✗
+Resource Injection;✓;✓;✗;✗
+Code Injection;✓;✓;✗;✗
+Command Injection;✓;✓;✗;✗
+Manipulate Human Behavior;✗;✗;✓;✗
+Malicious Logic Insertion;✓;✓;✗;✗
+Local Execution of Code;✓;✓;✓;✗
+Functionality Bypass;✓;✓;✗;✗
+Use of Known Domain Credentials;✓;✓;✗;✗
+Object Injection;✓;✓;✗;✗
+Exploitation of Trusted Identifiers;;;;✓
+Exploiting Trust in Client;;;;✓
+Leveraging Race Conditions;;;;✓
+Fuzzing;;;;✓
+Manipulating State;;;;✓
+Adversary in the Middle (AiTM);;;;✓
+Interface Manipulation;;;;✓
+Excavation;;;;✓
+Privilege Abuse;;;;✓
+Buffer Manipulation;;;;✓
+Flooding;;;;✓
+Excessive Allocation;;;;✓
+Resource Leak Exposure;;;;✓
+Parameter Injection;;;;✓
+Content Spoofing;;;;✓
+Identity Spoofing;;;;✓
+Resource Location Spoofing;;;;✓
+Action Spoofing;;;;✓
+Code Inclusion;;;;✓
+Functionality Misuse;;;;✓
+Resource Injection;;;;✓
+Code Injection;;;;✓
+Command Injection;;;;✓
+Manipulate Human Behavior;;;;✓
+Malicious Logic Insertion;;;;✓
+Local Execution of Code;;;;✓
+Functionality Bypass;;;;✓
+Use of Known Domain Credentials;;;;✓
+Object Injection;;;;✓
+Exploitation of Trusted Identifiers;✗;✓;;
+Exploiting Trust in Client;✗;✓;;
+Leveraging Race Conditions;✗;✓;;
+Fuzzing;✗;✗;;
+Manipulating State;✗;✓;;
+Adversary in the Middle (AiTM);✗;✓;;
+Interface Manipulation;✗;✓;;
+Excavation;✗;✓;;
+Privilege Abuse;✗;✓;;
+Buffer Manipulation;✗;✓;;
+Flooding;✗;✓;;
+Excessive Allocation;✗;✓;;
+Resource Leak Exposure;✗;✓;;
+Parameter Injection;✗;✓;;
+Content Spoofing;✗;✓;;
+Identity Spoofing;✗;✓;;
+Resource Location Spoofing;✗;✓;;
+Action Spoofing;✗;✓;;
+Code Inclusion;✗;✓;;
+Functionality Misuse;✗;✓;;
+Resource Injection;✗;✓;;
+Code Injection;✗;✓;;
+Command Injection;✗;✓;;
+Manipulate Human Behavior;✗;✓;;
+Malicious Logic Insertion;✗;✓;;
+Local Execution of Code;✗;✓;;
+Functionality Bypass;✗;✓;;
+Use of Known Domain Credentials;✗;✓;;
+Object Injection;✗;✓;;
+Exploitation of Trusted Identifiers;✓;;;
+Exploiting Trust in Client;✓;;;
+Leveraging Race Conditions;✓;;;
+Fuzzing;✓;;;
+Manipulating State;✓;;;
+Adversary in the Middle (AiTM);✓;;;
+Interface Manipulation;✓;;;
+Excavation;✓;;;
+Privilege Abuse;✓;;;
+Buffer Manipulation;✓;;;
+Flooding;✓;;;
+Excessive Allocation;✓;;;
+Resource Leak Exposure;✓;;;
+Parameter Injection;✓;;;
+Content Spoofing;✓;;;
+Identity Spoofing;✓;;;
+Resource Location Spoofing;✓;;;
+Action Spoofing;✓;;;
+Code Inclusion;✓;;;
+Functionality Misuse;✓;;;
+Resource Injection;✓;;;
+Code Injection;✓;;;
+Command Injection;✓;;;
+Manipulate Human Behavior;✓;;;
+Malicious Logic Insertion;✓;;;
+Local Execution of Code;✓;;;
+Functionality Bypass;✓;;;
+Use of Known Domain Credentials;✓;;;
+Object Injection;✓;;;
+Exploitation of Trusted Identifiers;;;✓;
+Exploiting Trust in Client;;;✓;
+Leveraging Race Conditions;;;✓;
+Fuzzing;;;✓;
+Manipulating State;;;✓;
+Adversary in the Middle (AiTM);;;✓;
+Interface Manipulation;;;✓;
+Excavation;;;✓;
+Privilege Abuse;;;✓;
+Buffer Manipulation;;;✓;
+Flooding;;;✓;
+Excessive Allocation;;;✓;
+Resource Leak Exposure;;;✓;
+Parameter Injection;;;✓;
+Content Spoofing;;;✓;
+Identity Spoofing;;;✓;
+Resource Location Spoofing;;;✓;
+Action Spoofing;;;✓;
+Code Inclusion;;;✓;
+Functionality Misuse;;;✓;
+Resource Injection;;;✓;
+Code Injection;;;✓;
+Command Injection;;;✓;
+Manipulate Human Behavior;;;✓;
+Malicious Logic Insertion;;;✓;
+Local Execution of Code;;;✓;
+Functionality Bypass;;;✓;
+Use of Known Domain Credentials;;;✓;
+Object Injection;;;✓;
+Exploitation of Trusted Identifiers;;;;✓
+Exploiting Trust in Client;;;;✓
+Leveraging Race Conditions;;;;✓
+Fuzzing;;;;✓
+Manipulating State;;;;✓
+Adversary in the Middle (AiTM);;;;✓
+Interface Manipulation;;;;✓
+Excavation;;;;✓
+Privilege Abuse;;;;✓
+Buffer Manipulation;;;;✓
+Flooding;;;;✓
+Excessive Allocation;;;;✓
+Resource Leak Exposure;;;;✓
+Parameter Injection;;;;✓
+Content Spoofing;;;;✓
+Identity Spoofing;;;;✓
+Resource Location Spoofing;;;;✓
+Action Spoofing;;;;✓
+Code Inclusion;;;;✓
+Functionality Misuse;;;;✓
+Resource Injection;;;;✓
+Code Injection;;;;✓
+Command Injection;;;;✓
+Manipulate Human Behavior;;;;✓
+Malicious Logic Insertion;;;;✓
+Local Execution of Code;;;;✓
+Functionality Bypass;;;;✓
+Use of Known Domain Credentials;;;;✓
+Object Injection;;;;✓
+Exploitation of Trusted Identifiers;;;✓;
+Exploiting Trust in Client;✓;;;
+Leveraging Race Conditions;✓;;;
+Fuzzing;;;✓;
+Manipulating State;✓;;;
+Adversary in the Middle (AiTM);✓;;;
+Interface Manipulation;✓;;;
+Excavation;✓;;;
+Privilege Abuse;✓;;;
+Buffer Manipulation;✓;;;
+Flooding;✓;;;
+Excessive Allocation;✓;;;
+Resource Leak Exposure;✓;;;
+Parameter Injection;✓;;;
+Content Spoofing;✓;;;
+Identity Spoofing;✓;;;
+Resource Location Spoofing;✓;;;
+Action Spoofing;✓;;;
+Code Inclusion;✓;;;
+Functionality Misuse;✓;;;
+Resource Injection;✓;;;
+Code Injection;✓;;;
+Command Injection;✓;;;
+Manipulate Human Behavior;;;✓;
+Malicious Logic Insertion;✓;;;
+Local Execution of Code;✓;;;
+Functionality Bypass;✓;;;
+Use of Known Domain Credentials;;;✓;
+Object Injection;✓;;;
+Exploitation of Trusted Identifiers;;;;✓
+Exploiting Trust in Client;;;;✓
+Leveraging Race Conditions;;;;✓
+Fuzzing;;;;✓
+Manipulating State;;;;✓
+Adversary in the Middle (AiTM);;;;✓
+Interface Manipulation;;;;✓
+Excavation;;;;✓
+Privilege Abuse;;;;✓
+Buffer Manipulation;;;;✓
+Flooding;;;;✓
+Excessive Allocation;;;;✓
+Resource Leak Exposure;;;;✓
+Parameter Injection;;;;✓
+Content Spoofing;;;;✓
+Identity Spoofing;;;;✓
+Resource Location Spoofing;;;;✓
+Action Spoofing;;;;✓
+Code Inclusion;;;;✓
+Functionality Misuse;;;;✓
+Resource Injection;;;;✓
+Code Injection;;;;✓
+Command Injection;;;;✓
+Manipulate Human Behavior;;;;✓
+Malicious Logic Insertion;;;;✓
+Local Execution of Code;;;;✓
+Functionality Bypass;;;;✓
+Use of Known Domain Credentials;;;;✓
+Object Injection;;;;✓
